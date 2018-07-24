@@ -1,2 +1,3 @@
-# Sentiment-analysis-and-Machine-learning
+# Sentiment-analysis-and-Machine-learning: https://sanjeevees.shinyapps.io/cars/
+
 The app conducts analysis of the car reviews available on cars.com. It uses score of the words from AFINN lexicon to calculate the sentiment score and average sentiment score of each review. It checks each review for 4 tags Service, Handling, Inerior and Price. The sentiment Analysis is done on both sentiment sum and average sentiment individually and on all four tags. A Random Forest prediction model is used in this app to predict the Rating given by the user based on the sum of sentiment score and it tests the model on the reviews of the year selected by the user.
